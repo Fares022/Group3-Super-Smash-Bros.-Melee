@@ -1,1 +1,81 @@
 
+
+    <main class="my-5">
+       
+        
+        <div class="container-fluid padding">
+            <div class="row padding">
+             <div class="col-md-12 col-lg-6">
+                    <h2>Reception</h2>
+                    <p class="mt-3">Super Smash Bros. Melee received critical acclaim from reviewers, most of whom credited Melee's expansion of gameplay features from Super Smash Bros. Focusing on the additional features, GameSpy commented that "Melee really scores big in the 'we've added tons of great extra stuff' department".[55] Reviewers compared the game favorably to Super Smash Bros. IGN's Fran Mirabella III stated that it was "in an entirely different league than the N64 version";[13] GameSpot's Miguel Lopez praised the game for offering a more advanced "classic-mode" compared to its predecessor, while detailing the Adventure Mode as "really a hit-or-miss experience".[54] Despite a mixed response to the single-player modes, many reviewers expressed the game's multiplayer mode as a strong component of the game. In their review of the game, GameSpy stated that "you'll have a pretty hard time finding a more enjoyable multiplayer experience on any other console".</p>
+                    <p>Melee's visuals garnered a positive reaction. GameSpot lauded the game's character and background models, stating that "the character models are pleasantly full-bodied, and the quality of their textures is amazing".[54] IGN's Fran Mirabella III praised the game's use of physics, animation and graphics, although his colleague Matt Casamassina thought that "some of the backgrounds lack the visual polish endowed upon the characters" when giving a second opinion about the game.[13]
+
+                        Critics praised the game's orchestrated soundtrack;[13][54] while GameSpot's Greg Kasavin commented that "it all sounds brilliant".[54] GameSpy praised the music for its nostalgic effect, with soundtracks ranging from multiple Nintendo series.[55]</p>
+
+                        <p>Reviewers have welcomed the simplistic controls,[51][13][55] but its "hyper-responsiveness", with the characters easily dashing and precise movements being difficult to perform, was expressed as a serious flaw of the game by GameSpot.[54] With a milder criticism of controls, Bryn Williams of GameSpy commented that "movement and navigation seems slightly too sensitive".[55] The basis of Melee's gameplay system is the battles between Nintendo characters, which has been suggested as being overly hectic; N-Europe questioned whether the gameplay is "too Frantic?", even though they enjoyed the variety of modes on offer.[57] Similarly, Nintendo Spin's Clark Nielsen stated that "Melee was too fast for its own good", and "skill was more about just being able to wrap your head around what was happening as opposed to really getting into the combat".[58] In regards to the pace of the game, Edge commented that it even made gameplay features such as "blocking" redundant, as the player is not given enough time to react to an attack.[50]</p>
+                        <p>Despite the new features added to the game, some reviews criticized Melee for a lack of originality and for being too similar to its predecessor, Super Smash Bros. Caleb Hale from GameCritics.com noted that while it was "every bit as good as its Nintendo 64 predecessor" he also felt "the game doesn't expand much past that point".[59] On a similar note, Edge stated that "it's not evolution; it's reproduction", in reference to a perceived lack of innovation.[50] The nostalgic nature of the game received a positive reaction,[51] as well as the accompanying stages and items that allude to past Nintendo games.[57] Gaming journalists have welcomed the roster of 26 Nintendo characters,[51][55] as well as the trophy system, which Nintendo Spin labeled as "a great addition to this game".[55][60]</p>
+                    <br>
+                    <a href="#" class="btn btn-primary mt-2">Awards</a>
+             </div>   
+             <div class="col-lg-6">
+                <img src="table.png" class="img-fluid">
+                
+            
+
+
+             </div>  
+
+
+            </div>
+            <div class="row">
+              <div class="col">
+                <div class="bg-secondary text-white"></div>
+
+              </div>
+              
+
+
+              </div>
+
+            </div>
+        </div> 
+
+           
+        
+    </main>
+
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card">
+          <img src="mario.png" class="card-img-top" alt="mario">
+          <div class="card-body">
+            <p class="card-text">Several publications have acknowledged Super Smash Bros. Melee in competitions and awards. In their "Best of 2001" awards, GameSpy chose it as Best Fighting GameCube Game,[70] IGN's reader choice chose it as Game of the Year,[71] Electronic Gaming Monthly chose it as Best Multiplayer and Best GameCube Game,[72] and GameSpot chose it as the Best GameCube Game and tenth best game of the year.[73][74] The game received a nomination for "Console Fighting Game of the Year" and "Outstanding Achievement in Animation" by the Academy of Interactive Arts & Sciences, which went to Dead or Alive 3 and Oddworld: Munch's Oddysee.[75] It also received a nomination in GameSpot's "Best Music" and "Best Fighting Game" categories.[76]
+
+              GameFAQs placed it sixth in a poll of the 100 best games ever and was in the final four of the "Best. Game. Ever." contest.[77][78] In the 200th issue of Electronic Gaming Monthly, the editors selected Melee as the 92nd most influential game in their "Top 200 Games of Their Time" list, defining Melee as "Billions of things to unlock, plus Yoshi pummeling Pikachu with a bat".[79] In a similar competition, Nintendo Power named Super Smash Bros. Melee the 16th best game ever to appear on a Nintendo console,[80] and selected it as the 2001 "Game of the Year". IGN named it the third best GameCube game of all-time in 2007 as a part of a feature reflecting on the GameCube's long lifespan, citing it as "the grand stage of fighters, much like Mario Kart is for racing fans".[81] GameSpy chose it as fourth in a similar list, citing that it had "better graphics, better music, more characters, more gameplay modes, more secrets to discover" in comparison to its predecessor.[82] The game was ranked 58th in Official Nintendo Magazine's "100 Greatest Nintendo Games Ever" feature.[83] In 2019, Game Informer ranked it as the 2nd best fighting game of all time.[84] Edge magazine ranked the game 91st on their 100 best Video Games in 2007.[85]</p>
+          </div>
+        </div>
+
+
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="card">
+            <img src="mario.png" class="card-img-top" alt="mario">
+            <div class="card-body">
+              <p class="card-text">Several publications have acknowledged Super Smash Bros. Melee in competitions and awards. In their "Best of 2001" awards, GameSpy chose it as Best Fighting GameCube Game,[70] IGN's reader choice chose it as Game of the Year,[71] Electronic Gaming Monthly chose it as Best Multiplayer and Best GameCube Game,[72] and GameSpot chose it as the Best GameCube Game and tenth best game of the year.[73][74] The game received a nomination for "Console Fighting Game of the Year" and "Outstanding Achievement in Animation" by the Academy of Interactive Arts & Sciences, which went to Dead or Alive 3 and Oddworld: Munch's Oddysee.[75] It also received a nomination in GameSpot's "Best Music" and "Best Fighting Game" categories.[76]
+
+                GameFAQs placed it sixth in a poll of the 100 best games ever and was in the final four of the "Best. Game. Ever." contest.[77][78] In the 200th issue of Electronic Gaming Monthly, the editors selected Melee as the 92nd most influential game in their "Top 200 Games of Their Time" list, defining Melee as "Billions of things to unlock, plus Yoshi pummeling Pikachu with a bat".[79] In a similar competition, Nintendo Power named Super Smash Bros. Melee the 16th best game ever to appear on a Nintendo console,[80] and selected it as the 2001 "Game of the Year". IGN named it the third best GameCube game of all-time in 2007 as a part of a feature reflecting on the GameCube's long lifespan, citing it as "the grand stage of fighters, much like Mario Kart is for racing fans".[81] GameSpy chose it as fourth in a similar list, citing that it had "better graphics, better music, more characters, more gameplay modes, more secrets to discover" in comparison to its predecessor.[82] The game was ranked 58th in Official Nintendo Magazine's "100 Greatest Nintendo Games Ever" feature.[83] In 2019, Game Informer ranked it as the 2nd best fighting game of all time.[84] Edge magazine ranked the game 91st on their 100 best Video Games in 2007.[85]</p>
+            </div>
+          </div>
+
+
+        </div>
+
+    
+
+    </div>
+</div> 
+
+<main>
