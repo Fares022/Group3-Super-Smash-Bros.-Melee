@@ -72,9 +72,24 @@
   body {
   
     background-color: rgb(0, 0, 0);
+    
   }
   
-  
+  body h1{
+
+    font-family: 'Poor Story', cursive;
+  }
+
+ body p {
+
+  font-family: 'Mukta', sans-serif;
+ } 
+
+ .cr {
+
+  font-family: 'Mukta', sans-serif;
+ }
+
   /* ReVIEW SECTION */
   
   .Da {
